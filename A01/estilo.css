@@ -15,17 +15,13 @@ section {
     width: 500px;
     margin: auto;
     box-shadow: 5px 5px 10px;
-    text-align: center;
+
 }
 
 footer {
     color: white;
     text-align: center;
     font-style: italic;
-}
-
-div#msg {
-    padding-bottom: 20px;
 }
 
 img {
